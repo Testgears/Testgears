@@ -5,15 +5,25 @@ Software QA Professional | AI Graduate Student | AI/ML Transition
 
 - 8+ years in Software Quality Assurance across multiple industries
 - Experience validating software and AI-enabled systems
-- Currently pursuing a part-time Master's in Computer Engineering (AI specialization) at Polytechnique Montréal
+- Currently pursuing Master's in Computer Engineering (AI specialization) at Polytechnique Montréal
 - Building hands-on experience in Machine Learning and AI Engineering
 - Interested in AI-enabled systems, ML workflows, and reliable intelligent systems
 
-## 🚀 Current Projects
+## 👩‍💻 Current Focus
 
-- 
-- 
-- 
+- Machine Learning Engineering
+- AI-enabled systems
+- Computer Vision
+- Applied AI projects
+- MLOps learning
+
+## 🚀 Projects
+
+| Domain | Project | Description | Tech Stack | Link |
+|----------|----------|-------------|-------------|------|
+| 🎵 Machine Learning | Concert Enjoyment Prediction | Built an ordinal regression pipeline to predict ordered levels of concert enjoyment and compared Mord with neural-network approaches for ranking-aware prediction. | Python, PyTorch, Pandas, Scikit-learn | [View](https://github.com/Testgears/concert-enjoyment-classification) |
+| 🔍 AI / Fraud Detection | Fraud Detection using Anomaly Detection | Developed and evaluated anomaly detection techniques including clustering and autoencoders for highly imbalanced fraud datasets. | Python, TensorFlow, Scikit-learn, Plotly | [View](https://github.com/Testgears/fraud_detection_anomaly_detection) |
+| 🔊 Deep Learning | Environmental Sound Classification | Converted audio into spectrograms and trained CNNs for sound classification while addressing class imbalance through augmentation. | Python, PyTorch, Torchaudio, Librosa | [View](https://drive.google.com/drive/folders/1bQOUCNicY-_EHCMgYeyj9vmg0n9mwcP0) |
 
 ## 🛠 Tech Stack
 
