@@ -27,16 +27,6 @@ My background in software quality, testing strategy, and system reliability give
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Testgears&show_icons=true&theme=github_dark"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Testgears&layout=compact&theme=github_dark"/>
-</p>
-
----
-
 ## 🚀 Projects
 
 | Domain | Project | Description | Tech Stack | Link |
