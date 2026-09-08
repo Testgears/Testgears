@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋 I'm Tomiwa Orolu</h1>
 
 <h3 align="center">
-Software QA Professional | AI Graduate Student | Machine Learning Enthusiast
+Masters Student in AI | 8+ Years in Software QA Professional
 </h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-Software Quality Assurance professional with **8+ years of experience** across multiple industries, including validating AI-enabled systems and ensuring the reliability of complex software products.
+I am currently pursuing a **Master's in Computer Engineering (AI specialization)** at **Polytechnique Montréal** while building hands-on experience in **Machine Learning**, **AI-enabled systems**, and **intelligent software solutions**.
 
-Currently pursuing a **Master's in Computer Engineering (AI specialization)** at **Polytechnique Montréal** while building hands-on experience in **Machine Learning**, **AI-enabled systems**, and **intelligent software solutions**.
+I am also a Software Quality Assurance professional with **8+ years of experience** across multiple industries, including validating AI-enabled systems and ensuring the reliability of complex software products.
 
 My background in software quality, testing strategy, and system reliability gives me a structured approach to problem-solving and building dependable systems.
 
@@ -20,6 +20,8 @@ My background in software quality, testing strategy, and system reliability give
 
 - Machine Learning Engineering
 - AI-enabled systems
+- Natural language Processing
+- Large Language models
 - Computer Vision
 - Applied AI projects
 - MLOps learning
